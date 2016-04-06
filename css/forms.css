@@ -1,0 +1,50 @@
+/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
+
+
+/* Color Legend */
+
+
+
+/* Forms */
+
+form ol { list-style-type:none; }
+
+form 	{ text-align:left; margin-left:0%;	}
+
+label 	{ 
+		float:left; width: 15%; margin-top:.5%;
+		text-align:right; display:block; background:none; font-weight:bold;
+		}
+	
+submit	{ background:none; 	}
+
+input 	{ 
+		width: 235px; margin:0 0 1.6% 1%;
+		border:1px #bbb solid; padding:.5%; background:none; 
+		}
+		
+input:focus, textarea:focus	{ background-color:#BFEBFF; }
+
+textarea {
+		width: 235px; height: 150px; margin:0 0 1.6% 1%;
+		border:1px #bbb solid; padding:.5%; background:none; 
+		}
+
+select { margin-bottom:2%;	}
+
+.submit {
+		width:90px; height:40px;
+		margin-left:20%;
+		font-size:.75em;
+		}
+
+br		{ clear: left; 	}
+
+.clear	{ clear:both; }
+
+h1	{
+		margin-left:17%;
+}
+
+
+

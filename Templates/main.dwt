@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript" src="../js/jquery.js"></script>
+<link href="../css/normalize.css" rel="stylesheet" type="text/css" />
+<link href="../css/grid.css" rel="stylesheet" type="text/css" />
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Canon Concrete Contractors</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<div class="container clearfix">
+        <hr />
+        <hr />
+            <div class="grid_12 banner">
+            <img src="../images/banner_bg.png"/>
+            </div>
+        <hr />
+        <hr />
+            <div class="grid_12">
+                <ul class="nav">
+                    <li><a href="../index.html" class="btn">Home</a></li>
+                    <li><a href="../html/about.html" class="btn">About Us</a></li>
+                    <li><a href="../html/contractor101.html" class="btn">Contractor 101</a></li>                
+                    <li><a href="../html/clients.html" class="btn">Our Clients</a></li>
+                    <li id="images"><a href="../html/images.html" class="btn">Images</a></li>
+                    <li ><a href="../html/contact.html" class="btn">Contact Us</a></li>
+                </ul>
+            </div>
+            <!-- TemplateBeginEditable name="info" -->
+        
+		<div class="grid_7 main">
+          <h1>Welcome to Canon Concrete Contractors!</h1>
+        
+            <p>Canon Concrete Contractors offer premium business and residential services, including free esitimates, quotes and consultations.
+            All Flatwork, concrete paving, custom stamped
+                Curb and gutters
+                Foundations
+                Monolithic Slabs
+            Over 40 years experience in the concrete industry.</p><p> Call Today for a Free estimate, quote or consultation.(We are fully 			licensed, bonded and insured)</p>    
+            <p>Phone or Fax: (719) 372-3549<br />
+            Toll Free: (866) 372-3549</p>
+            <p>All work is guaranteed!</p>
+		</div>
+		<div class="grid_5 omega" id="image">
+    		<img src="../images/mainImg2.png"/>
+        </div>
+<!-- TemplateEndEditable -->
+        <div class="grid_12" id="info">
+        	<p id="bottomContact">Mike & Elaine Haines&nbsp;&nbsp;&nbsp;754 Q Street&nbsp; &nbsp;Penrose, CO &nbsp;81240&nbsp; &nbsp;					719.372.3549</p>
+        </div>
+ 
+        
+    	<div class="grid_12 footer">
+        	<hr />
+        	<p>&copy; <script type="text/javascript">
+				var update = new Date();
+				document.write(update.getFullYear());	
+			  </script> Canon Concrete Contractors, Inc. All Rights Reserved.</p>
+              <a title="Click for the Business Review of Canon Concrete Contractors Inc, a Concrete Contractors in Penrose CO" href="http://www.bbb.org/southern-colorado/business-reviews/concrete-contractors/canon-concrete-contractors-in-penrose-co-50003142#sealclick" target="_blank"><img alt="Click for the BBB Business Review of this Concrete Contractors in Penrose CO" style="border: 0;" src="http://seal-southerncolorado.bbb.org/seals/black-seal-200-42-canonconcretecontractorsinc-50003142.png" /></a>
+		</div>
+</div>
+</body>
+</html>

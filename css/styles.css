@@ -1,0 +1,227 @@
+/* CSS Document */
+
+body {
+	font-family:"optima", sans-serif;
+	font-size:1em;
+	color:#000;
+	background:#EBD7B2;
+	background: -webkit-radial-gradient(circle, #fff, #EBD7B2);
+	background: -moz-radial-gradient(circle, #fff, #EBD7B2);
+}
+
+a	{
+	color: #33F;
+	text-decoration:none;
+}
+
+img	{
+	max-width:100%;
+}
+
+h1 {
+	font-size:1.750em;
+}
+
+h2	{
+	font-size:1.25em;
+	color:#727272;
+	margin-top:37px;
+}
+
+td	{
+	padding-top:5px;
+}
+
+input[type=submit] {
+	border-style:none;
+}
+
+textarea	{
+	width:211px;
+	height:150px;
+}
+
+label	{
+	margin-right:5px;
+}
+
+.btn	{
+	color:#EBE8E4;
+	background:#727272 no-repeat right top;
+	padding:.8% 1% .8% 1%;
+	margin:3.5% .9% 0% .8%;
+	border-radius:9px;
+}
+
+.btn:hover	{
+	background:#C5BAAA;
+	color:#727272;
+}
+
+.nav	{
+	width:90%;
+	text-align:center;
+}
+
+ul.nav	{
+	list-style:none;
+	text-align:center;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+ul.nav li	{	
+	display:inline;
+	padding-right:1.3%;
+	margin-left:auto;
+}
+
+ul.nav li a	{
+	color:#EBE8E4;
+	font-weight:bold;
+}
+
+ul.contract {
+	margin-top:.4%;
+	}
+	
+ul.clients li {
+	margin-top:2px;
+}
+
+.bbb img {
+	padding:30%;
+	padding-left:auto;
+}
+
+#copyright	{
+	border-top:8px solid #2a0400;
+	padding:.1% 0;
+	margin:.15% 0;
+	text-align:center;
+}
+
+
+.banner {
+	background-size:auto;
+	margin:.8% auto;
+	float:none;
+	overflow:hidden;
+	border-radius:15px;
+	}
+	
+#left	{
+	float:left;
+}
+#right	{
+	float:right;
+}
+.main	{
+}
+.main p	{
+	padding-right:3.5%;
+	padding-left:.9%;
+	}
+#image	{
+	margin-top:4%;
+	border-radius:15px;
+	overflow:hidden;
+	clear:right;
+	border:#727272 4px solid;
+}
+
+#image2	{
+	margin-top:4%;
+	margin-left:.1%;
+	border-radius:15px;
+	overflow:hidden;
+	clear:right;
+	border:#727272 4px solid;
+}
+
+#about	{
+	padding-left:25px;
+	margin-right:10px;
+	}
+#info	{
+	text-align:center;
+}
+
+#bottomContact	{
+	margin-top:5%;
+	margin-bottom:-.5%;
+}
+
+#center	{
+	text-align:center;
+}
+
+/*@media screen and (max-width:999px)	{
+	.container	{
+		width:97%;
+		margin:auto;
+	}
+}
+
+@media screen and (max-width:730px)	{
+	
+	.container	{
+		width:97%;
+		margin:auto;
+	}
+	
+	#images	{
+		display:none;
+	}
+			
+	ul.nav li	{	
+		display:block;
+		margin-top:4%;
+	}
+	
+	.grid_7	{
+		width:100%;
+	}
+	
+	.grid_9	{
+		width:100%;
+	}
+	
+	.grid_5	{
+		width:80%;
+		margin:auto;
+		float:none;
+	}
+		
+	#image2	{
+		width:80%;
+		margin:auto;
+		float:none;
+	}
+	
+	
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
